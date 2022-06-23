@@ -69,7 +69,7 @@ Testing R2: 0.879607496219049
 And this cross validation score:
 0.8219401785265875
 
-That means the model was only slightly underfit and it explains about 82% of the data.
+That means the model was only slightly underfit and it explains about 82% of the variance in the data.
  
  ### Potention further findings
  
